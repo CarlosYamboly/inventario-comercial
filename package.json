@@ -1,4 +1,9 @@
 {
+  "name": "inventario-comercial-yamboly",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plataforma web para cargar reportes de inventario comercial y visualizar avance compartido.",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
